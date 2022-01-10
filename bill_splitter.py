@@ -108,7 +108,7 @@ def unequal():
 
 
 if __name__ == '__main__':
-    print("\n \t WelCome To Bill splitter Made By Rah'S And Vagi\t \n")
+    print("\n \t WelCome To Bill splitter Made By Rah'S \t \n")
     num = int(input('Enter the number of person\'s :'))
     print('Is splitting equally distributed or unequally distributed?')
     ans = input('Type equal or unequal\n')
